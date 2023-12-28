@@ -73,7 +73,7 @@ if str(method) == 1:
 import configparser
 
 # Define the path to your odoo.conf file
-config_file = '/home/muzammil/Desktop/techfy/Odoo/odoo/debian/odoo.conf'  # Replace with the actual path to your odoo.config file
+config_file = '/Odoo/odoo/debian/odoo.conf'  # Replace with the actual path to your odoo.config file
 
 # Create a ConfigParser object and read the configuration file
 config = configparser.ConfigParser()
